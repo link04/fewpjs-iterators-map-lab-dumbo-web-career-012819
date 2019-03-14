@@ -19,6 +19,7 @@ const titleCasing = () => {
   )
 };
 
+const titleCased = titleCasing();
 
 
 
